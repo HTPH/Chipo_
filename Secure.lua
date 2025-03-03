@@ -1,0 +1,3 @@
+SecureAccess = {
+    LicenseToken = 'Token',
+}
